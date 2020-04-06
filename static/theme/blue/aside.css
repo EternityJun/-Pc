@@ -1,0 +1,13 @@
+.el-aside{overflow:auto;-webkit-box-sizing:border-box;box-sizing:border-box;-ms-flex-negative:0;flex-shrink:0}
+.el-aside .menu_icon {color: #F3B21F}
+.el-aside .sidebar{background-color:#15212B}.el-aside .logo_box{border-bottom: 1px solid #424E55;}
+.el-aside .menu1_sub.el-submenu:hover,
+.el-aside .menu1_sub.el-submenu.is-opened{background-color: #0F1920}
+.el-aside .menu1.el-menu-item:hover, 
+.el-aside .menu1.el-menu-item.menu-active{background-color: #0F1920;}
+.el-aside .menu2.el-menu-item:hover, 
+.el-aside .menu2.el-menu-item.menu-active, 
+.el-aside .menu3.el-menu-item:hover, 
+.el-aside .menu3.el-menu-item.menu-active{background-color: #2b457f;color: #fff;}
+.el-aside .menu2.el-menu-item:hover svg, 
+.el-aside .menu2.el-menu-item.menu-active svg{color: #fff;}

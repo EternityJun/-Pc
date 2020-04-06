@@ -1,0 +1,6 @@
+const ACTION_TYPES = {
+  POST_DATA: 'POST_DATA',
+  GET_DATA: 'GET_DATA',
+  SET_LOADING: 'SET_LOADING'
+}
+export default ACTION_TYPES

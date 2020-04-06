@@ -1,0 +1,6 @@
+/* 请求类型名 */
+const ACTION_TYPES = {
+  SET_LOADING: 'SET_LOADING',
+  POST_TABLE_HEADER: 'POST_TABLE_HEADER'
+}
+export default ACTION_TYPES
